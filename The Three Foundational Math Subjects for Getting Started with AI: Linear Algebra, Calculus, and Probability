@@ -1,0 +1,53 @@
+The Three Foundational Math Subjects for Getting Started with AI: Linear Algebra, Calculus, and Probability
+
+AI is gradually transforming our lives. To truly understand the technology behind AI, a solid foundation in mathematics is indispensable. Whether you're aiming to become an AI engineer or contribute meaningfully to the AI community, math will be a critical key to your success. Today, we'll explore three essential mathematical disciplines—linear algebra, calculus, and probability theory—and how they can help you build a strong foundation for deeper AI understanding.
+
+When I first started studying how ChatGPT works, I wanted to bypass the math. Eventually, I realized there was no way around it. I came to understand a simple truth: there’s no easy path when learning anything worthwhile. If you're serious about learning these three areas, 3Blue1Brown is an excellent resource.
+
+Why Is Math So Important for AI?
+In traditional software development, programmers can rely heavily on well-packaged libraries to complete tasks and focus mostly on business logic and UI interactions. However, AI development is fundamentally different. At its core, AI depends heavily on mathematics—especially linear algebra, calculus, and probability.
+
+These tools are the backbone of machine learning and deep learning technologies. By mastering them, you’ll go beyond simply using AI tools—you’ll understand, optimize, and even innovate.
+
+The Three Core Areas of Math
+Linear Algebra
+Vectors, matrices, and tensors are the basic data units in neural networks.
+
+Both forward and backward propagation in neural networks rely on matrix operations.
+
+Learning linear algebra helps you understand how information flows through network layers and how models are optimized.
+
+Calculus
+The backpropagation algorithm in neural network training is essentially an application of calculus, especially the chain rule.
+
+Gradient descent, the most common optimization algorithm, uses calculus to compute gradients and update network parameters.
+
+Calculus enables you to understand how to minimize loss functions and improve model performance.
+
+Probability Theory
+AI models—especially those in natural language processing like GPT—depend heavily on probabilistic calculations.
+
+Concepts such as Bayesian inference and maximum likelihood estimation provide the theoretical foundation for generation and prediction.
+
+Probability theory helps you understand the distribution of model predictions and how to optimize models using this information.
+
+Why Learn These Three First?
+To make breakthroughs in AI, mastering these three fundamental math subjects is essential. Many newcomers to AI may try to avoid the math, but in reality, the core of AI involves transforming theory and algorithms into executable code through mathematics. Without this foundation, it’s difficult to move efficiently from theory to practice.
+
+Linear algebra, calculus, and probability theory form the mathematical core of AI algorithms. Without them, you’ll struggle to optimize and improve AI models in a meaningful way.
+
+Suggested Learning Path
+Phase 1: Linear Algebra
+Start with the basics: vectors, matrices, eigenvalues, and eigenvectors. These are central to understanding deep learning.
+
+Phase 2: Calculus
+Next, move on to calculus, with a focus on derivatives, the chain rule, and gradient descent—core components of most optimization algorithms.
+
+Phase 3: Probability Theory
+Finally, study probability theory. Learn about conditional probability, Bayesian methods, and probability distributions to strengthen your understanding of inference and decision-making in AI models.
+
+Math in AI: Understanding, Not Just Tools
+In AI, you're not just using tools—you need to understand the principles behind them. Unlike traditional software development, where you can rely on black-box libraries, AI requires deep mathematical insight. By learning these three foundational subjects, you’ll gain a deeper understanding of neural networks and be better equipped to tune algorithms and build novel models.
+
+Conclusion
+By systematically studying linear algebra, calculus, and probability theory, you’ll lay a solid foundation for entering the AI field. This knowledge not only helps you understand AI technology but also builds your credibility as a contributor to the AI community. Once you've mastered these three core subjects, you can move on to advanced topics like information theory, optimization, and discrete mathematics, eventually becoming an expert in the AI domain.
