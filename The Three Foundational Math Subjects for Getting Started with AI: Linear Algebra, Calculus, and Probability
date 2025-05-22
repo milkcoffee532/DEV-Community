@@ -34,25 +34,6 @@ To make real progress in AI, mastering these three core math subjects is crucial
 
 Without a solid mathematical understanding, it's hard to bridge the gap between theory and practice. Linear Algebra, Calculus, and Probability form the mathematical core of AI algorithms. Without these tools, you’ll struggle to fine-tune and improve your models effectively.
 
-Learning Path
-Phase 1: Linear Algebra
-Start with the fundamentals—vectors, matrices, eigenvalues, and eigenvectors. These concepts are at the heart of deep learning.
-
-Phase 2: Calculus
-Next, move on to calculus with a focus on derivatives, the chain rule, and gradient descent—all key to optimization algorithms.
-
-Phase 3: Probability
-Finally, study probability theory. Learn about conditional probability, Bayesian inference, and probability distributions to understand model reasoning and optimization.
-
-Recommended Study Order
-For most AI learners, the recommended sequence is:
-
-Linear Algebra
-
-Calculus
-
-Probability
-
 Further studies such as information theory, optimization, and discrete mathematics can be selected based on your specific needs and career direction.
 
 Understanding vs. Using
